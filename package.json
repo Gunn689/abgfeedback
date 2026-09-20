@@ -1,0 +1,9 @@
+{
+  "name": "railway-autofeedback",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AutoFeedback server compatible with the supplied Lua client",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=18" }
+}
